@@ -1,6 +1,7 @@
 # NavigationMenuTabs
 Tabs under navigation bar with UICollectionview and UIPageViewcontroller
 
-![](Images/Screen1)
-![](Images/Screen2)
-![](Images/Screen3)
+| Short Tab | Normal Tab | Long Tab |
+| :---:        |     :---:      |       :---: |
+|<img src="https://github.com/resgurung/NavigationMenuTabs/blob/master/Images/Screen1.png"  width="200" height="400" />|<img src="https://github.com/resgurung/NavigationMenuTabs/blob/master/Images/Screen2.png"  width="200" height="400" />|<img src="https://github.com/resgurung/NavigationMenuTabs/blob/master/Images/Screen3.png"  width="200" height="400" />|
+

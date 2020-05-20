@@ -1,4 +1,6 @@
 # NavigationMenuTabs
 Tabs under navigation bar with UICollectionview and UIPageViewcontroller
 
-![](Resources/Screen.mov)
+![](Images/Screen1)
+![](Images/Screen2)
+![](Images/Screen3)
